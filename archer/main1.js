@@ -362,7 +362,7 @@ function startGame(){
     nextStage.style.display="block" 
     
     nextStage.addEventListener("click", function(){
-      window.location.href="/1Code/1CodeIndex.html"
+      window.location.href="1Code/1CodeIndex.html"
     });
     
             }

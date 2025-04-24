@@ -84,7 +84,7 @@ alert("attempts remaining: " + attempts)
   },0001);
   
   go2.addEventListener("click", function(){
-    window.location.href="/Pong/2CodeIndex.html"
+    window.location.href="pong/2CodeIndex.html"
   });
   
   

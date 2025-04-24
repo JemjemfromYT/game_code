@@ -55,7 +55,7 @@ go2.addEventListener("click", function(){
           },     }); },0001);
           
        setTimeout(()=>{
-         window.location.href="/credits/credits.html"
+         window.location.href="credits/credits.html"
        },4500);
           
           },2000);
